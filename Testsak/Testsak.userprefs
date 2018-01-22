@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{AA724163-14F4-4EE6-AE8E-D151EFCAFD02}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Testsak PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
